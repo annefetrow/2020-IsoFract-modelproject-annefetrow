@@ -1,0 +1,66 @@
+---
+title: "Carbonate Precipitation in Wetlands: Model, In class activity"
+date: "`r format(Sys.Date(), '%d %b %Y')`"
+Author: "Anne C. Fetrow"
+output:
+  html_document: 
+    df_print: paged
+    toc: yes
+    toc_depth: 2
+    toc_float: true
+    code_folding: show
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r "setup", warning=FALSE, message=FALSE}
+# load libraries
+library(tidyverse)
+```
+
+#System Schematic
+```{r}
+
+```
+
+#System Explanation
+```{r}
+
+```
+
+#Knobs... i.e. parameters
+```{r}
+
+```
+
+#Model Equation
+```{r}
+
+```
+
+#Known, fixed, and dynamic parameters
+```{r}
+
+```
+
+#Exercises 
+
+#Exercise 1:
+```{r}
+
+```
+#Exercise 2:
+```{r}
+
+```
+#Exercise 3: 
+```{r}
+
+```
+#Take Aways
+
+
+
+
+
+
